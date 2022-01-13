@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | The Baseball Breakdown</title>
-    <link>https://collindougherty.github.io/baseball/authors/</link>
-      <atom:link href="https://collindougherty.github.io/baseball/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://collindougherty.github.io/thebaseballbreakdown/authors/</link>
+      <atom:link href="https://collindougherty.github.io/thebaseballbreakdown/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://collindougherty.github.io/baseball/media/icon_hue3d685655c84c625d5ace1882e0e1f92_410892_512x512_fill_lanczos_center_3.png</url>
+      <url>https://collindougherty.github.io/thebaseballbreakdown/media/icon_hue3d685655c84c625d5ace1882e0e1f92_410892_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
-      <link>https://collindougherty.github.io/baseball/authors/</link>
+      <link>https://collindougherty.github.io/thebaseballbreakdown/authors/</link>
     </image>
     
   </channel>

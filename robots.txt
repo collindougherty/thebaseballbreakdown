@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://collindougherty.github.io/baseball/sitemap.xml
+Sitemap: https://collindougherty.github.io/thebaseballbreakdown/sitemap.xml
