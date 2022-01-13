@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collin Dougherty | The Baseball Breakdown</title>
+    <link>https://collindougherty.github.io/baseball/author/collin-dougherty/</link>
+      <atom:link href="https://collindougherty.github.io/baseball/author/collin-dougherty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collin Dougherty</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://collindougherty.github.io/baseball/author/collin-dougherty/avatar_huc7c0c86d0ea6b9a10b193eaf8a9617c2_373975_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Collin Dougherty</title>
+      <link>https://collindougherty.github.io/baseball/author/collin-dougherty/</link>
+    </image>
+    
+  </channel>
+</rss>

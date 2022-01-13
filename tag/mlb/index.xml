@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLB | The Baseball Breakdown</title>
+    <link>https://collindougherty.github.io/baseball/tag/mlb/</link>
+      <atom:link href="https://collindougherty.github.io/baseball/tag/mlb/index.xml" rel="self" type="application/rss+xml" />
+    <description>MLB</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://collindougherty.github.io/baseball/media/icon_hue3d685655c84c625d5ace1882e0e1f92_410892_512x512_fill_lanczos_center_3.png</url>
+      <title>MLB</title>
+      <link>https://collindougherty.github.io/baseball/tag/mlb/</link>
+    </image>
+    
+    <item>
+      <title>About the Baseball Breakdown</title>
+      <link>https://collindougherty.github.io/baseball/post/about-the-baseball-breakdown/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://collindougherty.github.io/baseball/post/about-the-baseball-breakdown/</guid>
+      <description>
+&lt;script src=&#34;https://collindougherty.github.io/baseball/post/about-the-baseball-breakdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Welcome to The Baseball Breakdown! This page will be updated as I progress in the development of college baseball and MLB power rankings with important terminology, explanations, and more.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Collin Dougherty is a senior undergraduate at the University of Nebraska-Lincoln studying mathematics and psychology. He is particularly interested in how data can be used in a wide variety of fields, including sports analytics, trading, and surveys. He worked in the field of sports analytics with the University of Nebraska. Learn more about Collin &lt;a href=&#34;https://collindougherty.github.io/&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
